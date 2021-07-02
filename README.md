@@ -1,2 +1,2 @@
-# BusinessCardWebsiteTemplate (now empty)
+# BusinessCardWebsiteTemplate
 Шаблон для сайта визитки на Bootstrap
