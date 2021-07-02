@@ -1,0 +1,35 @@
+.logo {
+    max-width: 125px;
+    /* margin: 0 10px 0 0; */
+}
+.nav {
+    margin-top: 6%;
+}
+hr {
+    max-width: 1140px;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+    size: 5px;
+    color: white;
+    content: "&&";
+}
+.carousel-control-prev-icon {
+    background-color: black;
+}
+.carousel-control-next-icon {
+    background-color: black;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #cb4f4f;
+}
+.nav-link {
+    color: #cb4f4f;
+}
+.anchor:before {
+	display: block;
+	content: "";
+    height: 335px;
+	margin-top: -335px;
+}
